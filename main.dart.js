@@ -72929,7 +72929,7 @@ A.kw.prototype={}
 A.Eb.prototype={
 K(a){var s=null,r=A.T(a),q=A.T(a),p=A.T(a)
 q=q.p2.y
-return A.abb(new A.ci(B.dE,A.h9(s,A.dJ("Hello world,\n       I'm Abdalla Mohamed, Versatile and motivated electronics engineer with practical experience in embedded systems, Mobile apps development (Flutter), and machine learning applications, Skilled in building integrated hardware-software solutions, developing mobile apps, and programming microcontrollers. Demonstrated initiative through leadership in robotics competitions, hands-on internships, and technical volunteering. Focused on applying intelligent technologies to solve practical engineering challenges.",s,s,q==null?s:q.bx(r.ax.k3),B.d2),B.G,p.ax.k2,s,s,s,s,B.mg,s,s,s,s,s),s),B.QK)}}
+return A.abb(new A.ci(B.dE,A.h9(s,A.dJ("Hello ,\n       I'm Abdalla Mohamed, Versatile and motivated electronics engineer with practical experience in embedded systems, Mobile apps development (Flutter), and machine learning applications, Skilled in building integrated hardware-software solutions, developing mobile apps, and programming microcontrollers. Demonstrated initiative through leadership in robotics competitions, hands-on internships, and technical volunteering. Focused on applying intelligent technologies to solve practical engineering challenges.",s,s,q==null?s:q.bx(r.ax.k3),B.d2),B.G,p.ax.k2,s,s,s,s,B.mg,s,s,s,s,s),s),B.QK)}}
 A.Fr.prototype={
 K(a){var s=null,r=A.T(a),q=A.T(a).p2.z
 return A.fx(A.a([A.dJ("You can reach me at:",s,s,q==null?s:q.bx(r.ax.k3),s),B.ci,A.H6(B.NP,s,s,new A.Xj()),B.ci,B.NR],t.p),B.Z,B.P)}}

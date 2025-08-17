@@ -1,11 +1,11 @@
 {
-    "name": "Portfolio",
-    "short_name": "Portfolio",
+    "name": "Abdalla Mohamed's Portfolio",
+    "short_name": "Abdalla's Portfolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Abdalla Mohamed's Portfolio, check it out 😁",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
